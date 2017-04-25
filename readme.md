@@ -112,6 +112,7 @@ A curated list of game development resources
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)
 
 ## Arts & Graphics
+- [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [The Noun Project](http://thenounproject.com/)
 - [Game Icons](http://game-icons.net/)
 - [Open Game Art](http://opengameart.org/)
@@ -173,4 +174,4 @@ A curated list of game development resources
 - [Game Patterns](http://www.game-patterns.com/)
 - [Mozilla's Resources for HTML5 game developers](https://hacks.mozilla.org/2014/07/resources-for-html5-game-developers/)
 - [The Psychology of Video Games](http://www.psychologyofgames.com/)
-- [Open Source Game Clones](http://osgameclones.com/)
+- [Open Source Game Clones](http://osgameclones.com/) 
